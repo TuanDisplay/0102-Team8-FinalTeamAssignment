@@ -1,0 +1,102 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+body{
+    max-width: 1507px;
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.logo {
+    margin-left: -65px;
+}
+
+ul {
+    list-style: none;
+    display: inline-flex;
+}
+li.nav-item {
+    margin: 0 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.flex {
+    display: inline-flex;
+    margin-right: 400   px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+th,
+td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+.mg30 {
+    margin-right: 30px;
+    margin-left: 5px;
+    justify-content: center;
+}
+.mg30 span {
+    color: red;
+    font-weight: bolder;
+}
+button.loc {
+    background-color: #198754;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+.col-xl-2 {
+    padding-right: 92px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.bt-top10 {
+    /* margin-bottom: 10px; */
+    margin-top: 10px;
+}
+.nen-menu{
+    background-color:#EFE197;
+}
+.form-select-sm {
+    background: none;
+    border: none;
+    padding: 0 10px;
+}
+.nav-link {
+    color: #000;
+    font-size: 18px;
+}
+
+.hello{
+    background-color:#4DCCFC;
+}
+.bold{
+    font-weight: bold;
+}
+/* .header-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.user-login-section {
+    display: flex;
+    align-items: center;
+}
+
